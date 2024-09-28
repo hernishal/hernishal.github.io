@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hernishal.github.io/sitemap.html.gz
+Sitemap: https://hernishal.github.io/app/sitemap.html.gz
+Sitemap: https://hernishal.github.io/assets/sitemap.html.gz
+Sitemap: https://hernishal.github.io/css/sitemap.html.gz
+Sitemap: https://hernishal.github.io/data/sitemap.html.gz
+Sitemap: https://hernishal.github.io/includes/sitemap.html.gz
+Sitemap: https://hernishal.github.io/item/sitemap.html.gz
+Sitemap: https://hernishal.github.io/src/sitemap.html.gz
